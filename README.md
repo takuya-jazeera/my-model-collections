@@ -36,6 +36,7 @@ You can learn how to make animation by watching videos in Youtube or something.
 
 You can export the models with .gltf format. Unfortunatelly, we cannot import each material as
 it is. If you want to custom models, you need to setup with materials in Godot Editor.
+As examples I make several repositories how do I set up them.
 It's could be cumbersome work, so I'm planning to find more easierway.
 
 # License 
