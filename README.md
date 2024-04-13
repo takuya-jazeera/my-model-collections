@@ -41,7 +41,7 @@ It's could be cumbersome work, so I'm planning to find more easierway.
 
 ## Some tips
 
-these shortcut keys are useful for me when I make some animations
+these shortcut keys are useful for me when I maade some animations
 
 | Key | Function |
 | --- | ---- |
