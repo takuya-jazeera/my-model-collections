@@ -32,6 +32,12 @@ rigged models you're the one.
 I modeled them with Blender 4.0. I cannot ensure that you can edit them with previous version.
 You can learn how to make animation by watching videos in Youtube or something.
 
+## For Godot users
+
+You can export the models with .gltf format. Unfortunatelly, we cannot import each material as
+it is. If you want to custom models, you need to setup with materials in Godot Editor.
+It's could be cumbersome work, so I'm planning to find more easierway.
+
 # License 
 
 I'm working on adding animation for each model but you are free to modify or try some motion
