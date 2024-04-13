@@ -27,6 +27,11 @@ The free materials for those who struggle to create a 3D game.
 I'm not done add animations yet, but if you know about how to use 
 rigged models you're the one.
 
+# Requirements
+
+I modeled them with Blender 4.0. I cannot ensure that you can edit them with previous version.
+You can learn how to make animation by watching videos in Youtube or something.
+
 # License 
 
 I'm working on adding animation for each model but you are free to modify or try some motion
