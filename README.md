@@ -62,7 +62,7 @@ I hope you enjoy the 3D things witout worring about laborous modeling blah blahs
 
 But I hope my models are worked for
 
-+ _NOT use of violence_
++ _NOT use of extreme violence_
 + _NOT use of sexual intentions_
 + _NOT malicious or assailment intention to others_ 
  
