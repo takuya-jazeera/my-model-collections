@@ -12,7 +12,7 @@ currently I have model as below
 
 I will working on below models now 
 
-+ Medusa
++ KaniKaniSan
 + Torajirou
 + Frog Gentleman (カエル紳士)
 + Godot-san (ゴドウさん, with respected to Yaigi-san)
