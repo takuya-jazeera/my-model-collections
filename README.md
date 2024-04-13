@@ -15,7 +15,7 @@ I will working on below models now
 + Medusa
 + Torajirou
 + Frog Gentleman (カエル紳士)
-+ Godot-san (ゴドウさん)
++ Godot-san (ゴドウさん, Respected to Yaigi-san)
 
 # What is this?
 
