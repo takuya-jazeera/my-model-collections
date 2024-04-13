@@ -1,7 +1,21 @@
 # NOTE
 
 This project is under construction.
-If I made something, blender model will be add to "Models" directory 	
+I creates models at morning, when my inner child or artistic mind have bliss time.
+Here is the place that I've modeled. Updates should be a week.
+currently I have model as below
+
++ **Commoner** (Muromachi-Era)
++ **Gonnokami** (Inspired by Otogizo-shi 御伽草子)
++ **Nekonobou** (Inspired by Otogizo-shi 御伽草子)
++ **Spinoza-sensei** (My beloved philosopher Spizona)
+
+I will working on below models now 
+
++ Medusa
++ Torajirou
++ Frog Gentleman (カエル紳士)
++ Godot-san (ゴドウさん)
 
 # What is this?
 
