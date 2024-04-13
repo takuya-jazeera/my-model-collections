@@ -45,7 +45,7 @@ these shortcut keys are useful for me when I make some animations
 
 | Key | Function |
 | --- | ---- |
-| Ctrl+Alt+V | paste symmetrically |
+| Ctrl+Shift+V | paste symmetrically |
 | Alt+R | Reset Rotation |
 | Alt+G | Reset Position |
 | Alt+S | Reset Scale | 
