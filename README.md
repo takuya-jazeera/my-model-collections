@@ -39,6 +39,21 @@ it is. If you want to custom models, you need to setup with materials in Godot E
 As examples I make several repositories how do I set up them.
 It's could be cumbersome work, so I'm planning to find more easierway.
 
+## Some tips
+
+these shortcut keys are useful for me when I make some animations
+
+| Key | Function |
+| --- | ---- |
+| Ctrl+Alt+V | paste symmetrically |
+| Alt+R | Reset Rotation |
+| Alt+G | Reset Position |
+| Alt+S | Reset Scale | 
+
+to insert key frame just right click your view and select Insert keyframe.
+There are many tutorial videos available on Youtube. Please watch those resources.
+And happy animating!
+
 # License 
 
 I'm working on adding animation for each model but you are free to modify or try some motion
