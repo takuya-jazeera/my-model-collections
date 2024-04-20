@@ -10,12 +10,13 @@ currently I have model as below
 + **Nekonobou** (Inspired by Otogizo-shi 御伽草子)
 + **Spinoza-sensei** (My beloved philosopher Spizona)
 + **La Gentleman de Grenouille** (カエル紳士)
++ Godot-san (ゴドウさん, with respected to Yaigi-san)
++ et cetra...
 
 I will working on below models now 
 
 + KaniKaniSan
 + Torajirou
-+ Godot-san (ゴドウさん, with respected to Yaigi-san)
 
 # What is this?
 
